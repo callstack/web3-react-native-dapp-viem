@@ -2,6 +2,8 @@
 
 This repository showcases how to build a modern web3 dApp with React Native, [viem](https://viem.sh) and [WalletConnectModal](https://docs.walletconnect.com/advanced/walletconnectmodal/about)
 
+Read the article for a more detailed explanation: [Build Modern Web3 dApps on Ethereum With React Native and Viem](https://www.callstack.com/blog/build-modern-web3-dapps-on-ethereum-with-react-native-and-viem)
+
 ## Requirements
 
 - [Expo environment setup](https://docs.expo.dev/get-started/installation/#requirements) (Node.js, Git, Watchman)
